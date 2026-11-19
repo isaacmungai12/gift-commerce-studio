@@ -1,3 +1,19 @@
+## gift-commerce-studio (Isaac's fork)
+
+This fork adds one skill, [`skills/gift-commerce-studio/`](skills/gift-commerce-studio/), for designing, building and reviewing premium gifting and boutique e-commerce sites that convert. First client: Gift & Moments, a Kenyan gift-package business.
+
+It builds on Impeccable rather than replacing it: agents load Impeccable (and its `craft-floor.md`) for general design craft, then this skill for:
+
+- `reference/gifting-playbook.md`: 10 patterns of top gifting sites, 5 award-level interactions, category architecture, benchmarks.
+- `reference/photo-direction.md`: real-not-AI photography, free photo sourcing and an image MANIFEST.
+- `reference/conversion-checklist.md`: gift-flow research, delivery cut-off clock, add-ons, reminders, WhatsApp checkout.
+- `reference/review-rubric.md`: 10-criterion independent review, pass bar 9/10 on every criterion.
+- `reference/stack.md`: Astro, View Transitions, GSAP + ScrollTrigger, Lenis, @fontsource, Netlify.
+
+Everything else in this repository is Impeccable by Paul Bakaus and contributors, used under the Apache License 2.0. `LICENSE` and `NOTICE.md` are unchanged. The upstream project lives at [pbakaus/impeccable](https://github.com/pbakaus/impeccable).
+
+---
+
 # Impeccable
 
 The design vocabulary for your coding agent. Steer with `polish` and `bolder`, review with `critique` and `audit`, and catch AI slop before it ships.
